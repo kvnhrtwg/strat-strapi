@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_section_customers",
+  "info": {
+    "name": "Customers",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "customer_logos": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "button_text": {
+      "type": "string"
+    },
+    "button_link": {
+      "type": "string"
+    }
+  }
+}

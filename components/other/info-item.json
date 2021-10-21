@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_other_info_items",
+  "info": {
+    "name": "Info_Item",
+    "icon": "list-ul",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "teaser": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "button_link": {
+      "type": "string"
+    },
+    "button_text": {
+      "type": "string"
+    }
+  }
+}

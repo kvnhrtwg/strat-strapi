@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_section_info_sections",
+  "info": {
+    "name": "Info_Section",
+    "icon": "exclamation-circle",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Info_Items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "other.info-item"
+    }
+  }
+}

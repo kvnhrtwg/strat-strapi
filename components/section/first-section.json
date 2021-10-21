@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_first_sections",
+  "info": {
+    "name": "First_Section",
+    "icon": "dice-one",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "list_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "other.list-item"
+    }
+  }
+}

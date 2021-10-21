@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_headers",
+  "info": {
+    "name": "Header",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "subheadline": {
+      "type": "string"
+    },
+    "button_text": {
+      "type": "string"
+    },
+    "button_link": {
+      "type": "string"
+    }
+  }
+}

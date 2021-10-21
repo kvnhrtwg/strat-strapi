@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_cooperation_models",
+  "info": {
+    "name": "Cooperation Model",
+    "icon": "cubes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

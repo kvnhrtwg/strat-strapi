@@ -1,0 +1,61 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "name": "Home",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.header"
+    },
+    "Customers": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.customers"
+    },
+    "Cooperation_Model": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.cooperation-model"
+    },
+    "First_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.first-section"
+    },
+    "Second_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.first-section"
+    },
+    "Third_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.first-section"
+    },
+    "Fourth_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.first-section"
+    },
+    "Team_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.team-section"
+    },
+    "Info_Section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.info-section"
+    }
+  }
+}
