@@ -2,7 +2,8 @@
   "collectionName": "components_other_people",
   "info": {
     "name": "People",
-    "icon": "address-book"
+    "icon": "address-book",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -10,9 +11,6 @@
       "type": "string"
     },
     "position": {
-      "type": "string"
-    },
-    "twitter": {
       "type": "string"
     },
     "linkedin": {

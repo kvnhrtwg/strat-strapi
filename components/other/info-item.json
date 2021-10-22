@@ -10,9 +10,6 @@
     "headline": {
       "type": "string"
     },
-    "teaser": {
-      "type": "text"
-    },
     "description": {
       "type": "text"
     },
